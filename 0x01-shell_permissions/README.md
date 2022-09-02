@@ -29,3 +29,6 @@ File 13-change_group contains a script that changes the group owner to school fo
 File 14-change_owner_and_group contains a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
 
 File 101-symbolic_link_permissionsa contains a script that changes the owner and the group owner of _hello to vincent and staff respectively
+
+File 102-if_only contains a script that changes the owner of the file hello to betty only if it is owned by the user guillaume
+
