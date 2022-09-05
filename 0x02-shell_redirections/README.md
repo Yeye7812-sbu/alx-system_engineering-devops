@@ -44,4 +44,6 @@ File 21-reverse contains a script that reverse its input
 
 File 22-users_and_homes contains a script that displays all users and their home directories, sorted by users
 
+File 100-empty_casks contains a script that commands that finds all empty files and directories in the current directory and all sub-directories
+
 
