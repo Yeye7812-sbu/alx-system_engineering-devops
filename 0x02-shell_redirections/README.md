@@ -36,4 +36,6 @@ File 17-hidethisword contains a script that displays all the lines in the file /
 
 File 18-letteronly contains a script that displays all lines of the file /etc/ssh/sshd_config starting with a letter
 
+File 19-AZ contains a script that replaces all characters A and c from input to Z and e respectively root” and 3 lines after them in the file /etc/passwd
+
 
