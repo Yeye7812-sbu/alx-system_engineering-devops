@@ -38,4 +38,6 @@ File 18-letteronly contains a script that displays all lines of the file /etc/ss
 
 File 19-AZ contains a script that replaces all characters A and c from input to Z and e respectively root” and 3 lines after them in the file /etc/passwd
 
+File 20-hiago contains a script that removes all letters c and C from input
+
 
