@@ -22,4 +22,6 @@ File 10-no_more_js contains a script that deletes all the regular files (not the
 
 File 11-directories contains a script that counts the number of directories and sub-directories in the current directory
 
+File 12-newest_files contains a script that displays the 10 newest files in the current directory
+
 
