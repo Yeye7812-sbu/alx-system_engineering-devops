@@ -40,4 +40,6 @@ File 19-AZ contains a script that replaces all characters A and c from input to 
 
 File 20-hiago contains a script that removes all letters c and C from input
 
+File 21-reverse contains a script that reverse its input
+
 
