@@ -18,6 +18,8 @@ File 8-cwd_state contains a script that writes into the file ls_cwd_content the 
 
 File 9-duplicate_last_line contains a script that duplicates the last line of the file iacta
 
+File 10-no_more_js contains a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
+
 
 
 
