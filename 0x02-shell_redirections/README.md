@@ -10,4 +10,6 @@ File 4-lastlines contains a command that displays the last 10 lines of /etc/pass
 
 File 5-firstlines contains a command that displays the first 10 lines of /etc/passwd
 
+File 6-third_line contains a script that displays the third line of the file iacta
+
 
