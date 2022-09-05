@@ -28,4 +28,6 @@ File 13-unique contains a script that takes a list of words as input and prints 
 
 File 14-findthatword contains a script that displays lines containing the pattern “root” from the file /etc/passwd
 
+File 15-countthatword contains a script that displays the number of lines that contain the pattern “bin” in the file /etc/passwd
+
 
