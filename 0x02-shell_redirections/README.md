@@ -48,4 +48,6 @@ File 100-empty_casks contains a script that commands that finds all empty files 
 
 File 101-gifs contains a script that lists all the files with a .gif extension in the current directory and all its sub-directories
 
+File 102-acrostic contains a script that decodes acrostics that use the first letter of each line
+
 
