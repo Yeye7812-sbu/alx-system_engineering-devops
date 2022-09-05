@@ -34,4 +34,6 @@ File 16-whatsnext contains a script that displays lines containing the pattern �
 
 File 17-hidethisword contains a script that displays all the lines in the file /etc/passwd that do not contain the pattern “bin”
 
+File 18-letteronly contains a script that displays all lines of the file /etc/ssh/sshd_config starting with a letter
+
 
