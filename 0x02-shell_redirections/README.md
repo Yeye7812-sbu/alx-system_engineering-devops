@@ -12,6 +12,10 @@ File 5-firstlines contains a command that displays the first 10 lines of /etc/pa
 
 File 6-third_line contains a script that displays the third line of the file iacta
 
-File 7-file contains a script that creates a file named exactly *\'"Best School"'\*$?*****:) containing the text Best School ending by a new line
+File 7-file contains a script that creates a file named exactly \*\\'"Best School"'\*$?*****:) containing the text Best School ending by a new line
+
+File 8-cwd_state contains a script that writes into the file ls_cwd_content the result of the command ls -la
+
+
 
 
