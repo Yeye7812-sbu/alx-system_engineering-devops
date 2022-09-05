@@ -16,6 +16,8 @@ File 7-file contains a script that creates a file named exactly \*\\'"Best Schoo
 
 File 8-cwd_state contains a script that writes into the file ls_cwd_content the result of the command ls -la
 
+File 9-duplicate_last_line contains a script that duplicates the last line of the file iacta
+
 
 
 
