@@ -20,4 +20,6 @@ File 9-divide_and_rule contains a script that prints the result of POWER divided
 
 File 10-love_exponent_breath contains script that displays the result of BREATH to the power LOVE
 
+File 11-binary_to_decimal contains a script that converts a number from base 2 to base 10
+
 
