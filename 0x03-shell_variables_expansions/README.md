@@ -30,4 +30,6 @@ File 100-decimal_to_hexadecimal contains a script that converts a number from ba
 
 File 101-rot13 contains a script that encodes and decodes text using the rot13 encryption
 
+File 102-odd contains a script that prints every other line from the input, starting with the first line
+
 
