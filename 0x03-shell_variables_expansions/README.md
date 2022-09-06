@@ -28,4 +28,6 @@ File 13-print_float contains a script that prints a number with two decimal plac
 
 File 100-decimal_to_hexadecimal contains a script that converts a number from base 10 to base 16
 
+File 101-rot13 contains a script that encodes and decodes text using the rot13 encryption
+
 
