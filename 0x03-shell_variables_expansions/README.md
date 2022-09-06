@@ -18,4 +18,6 @@ File 8-true_knowledge contains a script that prints the result of the addition o
 
 File 9-divide_and_rule contains a script that prints the result of POWER divided by DIVIDE, followed by a new line
 
+File 10-love_exponent_breath contains script that displays the result of BREATH to the power LOVE
+
 
