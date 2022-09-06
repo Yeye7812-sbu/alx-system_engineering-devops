@@ -22,4 +22,6 @@ File 10-love_exponent_breath contains script that displays the result of BREATH 
 
 File 11-binary_to_decimal contains a script that converts a number from base 2 to base 10
 
+File 12-combinations contains a script that prints all possible combinations of two letters, except oo
+
 
