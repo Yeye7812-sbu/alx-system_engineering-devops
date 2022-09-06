@@ -26,4 +26,6 @@ File 12-combinations contains a script that prints all possible combinations of 
 
 File 13-print_float contains a script that prints a number with two decimal places, followed by a new line
 
+File 14-decimal_to_hexadecimal contains a script that converts a number from base 10 to base 16
+
 
