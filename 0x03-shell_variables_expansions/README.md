@@ -10,4 +10,6 @@ File 4-global_variables contains a script that lists environment variables
 
 File 5-local_variables contains a script that lists all local variables and environment variables, and functions
 
+File 6-create_local_variable contains a script that creates a new local variable, Name_BEST and Value_School
+
 
