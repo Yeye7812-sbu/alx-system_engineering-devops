@@ -24,4 +24,6 @@ File 11-binary_to_decimal contains a script that converts a number from base 2 t
 
 File 12-combinations contains a script that prints all possible combinations of two letters, except oo
 
+File 13-print_float contains a script that prints a number with two decimal places, followed by a new line
+
 
